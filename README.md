@@ -18,5 +18,4 @@ Run specs using Zeus from TextMate. Compatible with RSpec Bundle.
 
 ## License
 
-translatable_ar is released under the [MIT License](http://www.opensource.org/licenses/MIT)
-
+Released under the [MIT License](http://www.opensource.org/licenses/MIT)
