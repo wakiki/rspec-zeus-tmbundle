@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>RSpec Zeus</string>
+	<key>ordering</key>
+	<array>
+		<string>51A2F89A-E59C-4B97-A7AC-29C64B4E5298</string>
+		<string>84516FA5-6A53-4810-B758-87B82AE25F4B</string>
+		<string>73A13281-6BF0-4CDD-8FCF-54533100C95F</string>
+	</array>
+	<key>uuid</key>
+	<string>0785AAB0-C25D-4A0B-A516-00D33D60F183</string>
+</dict>
+</plist>
