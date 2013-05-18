@@ -7,12 +7,12 @@
 	<key>command</key>
 	<string>#!/usr/bin/env bash --login
 cd $TM_PROJECT_DIRECTORY; ruby &lt;&lt;RUBYEOF
-	system "zeus rspec #{ENV['TM_SELECTED_FILES']}"
+	system "zeus rspec --format=textmate #{ENV['TM_SELECTED_FILES']}"
 RUBYEOF</string>
 	<key>input</key>
 	<string>none</string>
 	<key>keyEquivalent</key>
-	<string>^~@r</string>
+	<string>~@r</string>
 	<key>name</key>
 	<string>Run Examples in selected files/directories with Zeus</string>
 	<key>output</key>
