@@ -7,7 +7,7 @@
 	<key>command</key>
 	<string>#!/usr/bin/env bash --login
 cd $TM_PROJECT_DIRECTORY; ruby &lt;&lt;RUBYEOF
-	system "zeus rspec --format=textmate #{ENV['TM_SELECTED_FILES']}"
+	system "zeus rspec --format=html #{ENV['TM_SELECTED_FILES']}"
 RUBYEOF</string>
 	<key>input</key>
 	<string>none</string>
