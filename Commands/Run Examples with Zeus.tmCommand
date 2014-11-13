@@ -6,7 +6,7 @@
 	<string>saveActiveFile</string>
 	<key>command</key>
 	<string>#!/usr/bin/env bash --login
-cd $TM_PROJECT_DIRECTORY; zeus rspec --format=textmate $TM_FILEPATH</string>
+cd $TM_PROJECT_DIRECTORY; zeus rspec --format=html $TM_FILEPATH</string>
 	<key>input</key>
 	<string>none</string>
 	<key>keyEquivalent</key>
